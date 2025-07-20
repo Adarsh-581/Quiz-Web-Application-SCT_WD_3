@@ -83,7 +83,7 @@ NODE_ENV=development
 # Database
 MONGODB_URI=mongodb://localhost:27017/quiz-app
 # OR for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/quiz-app
+# MONGODB_URI=YOUR_MONGODB_URI
 
 # JWT Configuration
 JWT_SECRET=your-super-secret-jwt-key-here-make-it-long-and-random
